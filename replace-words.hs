@@ -3,8 +3,6 @@
 import System.IO
 import System.Environment
 
--- ATIVIDADE
-
 -- Esse programa ler
 -- na linha de comando três strings.
 -- A primeira é um nome de arquivo válido, 
